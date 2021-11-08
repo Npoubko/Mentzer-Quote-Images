@@ -1,7 +1,7 @@
 # Mentzer Quote Images
 The best of Mike Mentzer. Pulled from a variety of his material. Go into the /images folder to see all of them. Below are some of the best ones.
 
-()[images/mikementzer1.png]
+!(a)[images/mikementzer1.png]
 !()[images/mikementzer3.png]
 !()[images/mikementzer4.png]
 !()[images/mikementzer5.png]
