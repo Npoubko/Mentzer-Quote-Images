@@ -1,5 +1,5 @@
 # Mentzer Quote Images
-The best of Mike Mentzer. Pulled from a variety of his material. Go into the /images folder to see all of them. Please download and share. Mike's wisdom will not be suppressed.
+The best of Mike Mentzer. Pulled from a variety of his material. Go into the /images folder to see all of them. Please download and share.
 
 Below are some of his best quotes.
 
