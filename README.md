@@ -14,6 +14,7 @@ Below are some of his best quotes.
 ![](images/mikementzer13.png)
 ![](images/mikementzer16.png)
 ![](images/mikementzer18.png)
+![](images/mikementzer19.png)
 ![](images/mikementzer21.png)
 ![](images/mikementzer22.png)
 ![](images/mikementzer24.png)
