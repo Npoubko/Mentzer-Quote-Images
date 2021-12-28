@@ -10,6 +10,7 @@ Below are some of his best quotes. Again, go into the [/images](/images) folder 
 ![](images/mikementzer4.png)
 ![](images/mikementzer5.png)
 ![](images/mikementzer30.png)
+![](images/mikementzer31.png)
 ![](images/mikementzer8.png)
 ![](images/mikementzer10.png)
 ![](images/mikementzer13.png)
