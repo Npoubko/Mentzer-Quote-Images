@@ -21,3 +21,4 @@ Below are some of his best quotes. Again, go into the [/images](/images) folder 
 ![](images/mikementzer22.png)
 ![](images/mikementzer24.png)
 ![](images/mikementzer29.png)
+![](images/mikementzer41-short.png)
