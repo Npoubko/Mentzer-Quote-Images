@@ -41,3 +41,4 @@ Here are all the images.
 ![](mikementzer39.png)
 ![](mikementzer40.png)
 ![](mikementzer41.png)
+![](mikementzer41-short.png)
