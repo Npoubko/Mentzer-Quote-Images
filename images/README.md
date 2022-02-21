@@ -43,6 +43,7 @@ Here are all the images.
 ![](mikementzer41.png)
 ![](mikementzer41-short.png)
 ![](mikementzer42.png)
+![](mikementzer43.png)
 ![](consolidation1.png)
 ![](consolidation2.png)
 ![](consolidation3.png)
