@@ -29,6 +29,7 @@ Here are all the images.
 ![](mikementzer27.png)
 ![](mikementzer28.png)
 ![](mikementzer29.png)
+![](mikementzer29_smaller1.png)
 ![](mikementzer30.png)
 ![](mikementzer31.png)
 ![](mikementzer32.png)
